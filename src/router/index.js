@@ -57,4 +57,4 @@ const router = createRouter({
  //   component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
  // },
 
-//export default router
+export default router
