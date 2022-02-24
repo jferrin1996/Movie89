@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://https://sferrij354.pythonanywhere.com/'/* 'http://127.0.0.1:8000'; 'http://localhost:8000' http://127.0.0.1:8000/ or  'https://movies-groyce.pythonanywhere.com/'*/
+const API_URL = 'https://sferrij354.pythonanywhere.com/'/* 'http://127.0.0.1:8000'; 'http://localhost:8000' http://127.0.0.1:8000/ or  'https://movies-groyce.pythonanywhere.com/'*/
 
 
 
